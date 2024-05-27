@@ -6,8 +6,8 @@ console.log(`${author} once said, "People who have no hold over their process of
 
 // Question 2 Famous Quote 2
 let famous_person = 'Allama Iqbal';
-let famous_quote = '"People who have no hold over their process of thinking ara likely to be ruined by liberty of thought."'
-console.log(`${author} once said, ${famous_quote}` );
+let message = '"People who have no hold over their process of thinking ara likely to be ruined by liberty of thought."'
+console.log(`${author} once said, ${message}` );
 
 
 // Question 3 Stripping Names
